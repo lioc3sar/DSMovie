@@ -1,0 +1,11 @@
+postgres://
+
+cpfisdnownmxny - user
+:
+1018e2644254adf08cb9de126ff1adc402d87001bba7c4461627c80792b0d1df - password
+@
+ec2-184-73-243-101.compute-1.amazonaws.com - host
+:
+5432 - port
+/
+d5rqhe7m9li70o - database
