@@ -1,6 +1,6 @@
 # DS Movie
 
-[![NPM](https://github.com/lioc3sar/DSMovie/blob/main/LICENSE) 
+[![NPM](https://github.com/lioc3sar/DSMovie/blob/main/LICENSE)]
 
 # Sobre o projeto
 
