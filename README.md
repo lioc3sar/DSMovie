@@ -19,7 +19,7 @@ O Projeto consiste num sistema de avaliacao de filmes. Utilizamos Java com Sprin
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
+- SpringBoot
 - JPA / Hibernate
 - Maven
 ## Front end
