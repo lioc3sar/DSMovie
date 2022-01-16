@@ -24,7 +24,7 @@ O Projeto consiste num sistema de avaliacao de filmes. Utilizamos Java com Sprin
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
+- React.js
 ## Implantação em produção
 - Back end: Heroku
 - Front web: Netlify
